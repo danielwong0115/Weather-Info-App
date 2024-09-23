@@ -15,7 +15,7 @@ function App() {
   const [airQuality, setAirQuality] = useState({});
   const [forecast6, setforecast6] = useState({});
 
-  const api_key = 'YOUR_API_KEY_HERE'; //varies
+  const api_key = 'ENTER YOUR API KEY HERE'; //varies
   const url =`https://api.openweathermap.org/data/2.5/weather?q=${place}&units=imperial&appid=${api_key}`;
 
   const backgroundClasses = {
