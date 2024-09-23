@@ -1,0 +1,64 @@
+.day-background {
+    background: url('../images/daybackground1.png') no-repeat center center/cover;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.night-background {
+    background: url('../images/nightbackground1.png') no-repeat center center/cover;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.cloudy-background {
+    background: url('../images/cloudbackground1.png') no-repeat center center/cover;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.rainy-background {
+    background: url('../images/rainbackground1.png') no-repeat center center/cover;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.snowy-background {
+    background: url('../images/snowbackground1.png') no-repeat center center/cover;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.hazy-background {
+    background: url('../images/hazebackground3.png') no-repeat center center/cover;
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    color: black;
+}
+
+.forecast-day {
+    background-color: #cdcdce; 
+}
