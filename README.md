@@ -5,7 +5,6 @@ This is a weather app created using the React framework.
 All weather information is fetched using the OpenWeatherMap API and Open-Meteo's Air Quality API and Weather Forecast API.  
 Users can search up a city and receive information about the current temperature, air quality and forecast, along with more detailed information about each such as humidity and polutant concentrations.
 
-__Video link__: [Project Presentation](https://drive.google.com/file/d/1GOdsp3k86rDWT5rwN0miR6xCTOVGYKiF/view?usp=sharing)
 
 ## Steps for Running
 1. Install Node.js (and npm) via Installer:
