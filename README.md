@@ -1,4 +1,4 @@
-# Weather-App With React
+# Weather-Info-App With React
 By Daniel Wong
 
 This is a weather app created using the React framework.  
